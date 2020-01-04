@@ -9,7 +9,7 @@ Title
 Instructions.
 
 - time: X minutes
-- serving size: 
+- servings: 
 - keywords:
-- ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
+- rating:
 - source:
