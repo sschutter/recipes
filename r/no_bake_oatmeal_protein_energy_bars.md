@@ -13,8 +13,6 @@ No-Bake Oatmeal Protein Energy Bars
 - 1/3 cup add-ins (raisins, chocolate chips, craisins, etc)
 - 2-4 tablespoons liquid (almond milk, water, etc)
 <!-- -->
-- 2 teaspoons milk in second group of ingredients
-
 Add oats, protein powder, cinnamon and chia seeds to a large bowl.
 
 Add in peanut butter, honey and vanilla extract. Stir to combine.
