@@ -8,7 +8,8 @@ Title
 
 Instructions.
 
-- source:
+- time: X minutes
+- serving size: 
 - keywords:
 - ratings: Linda-?, Tom-?, Kyle-?, Skylar-?
-- time: ? minutes
+- source:
