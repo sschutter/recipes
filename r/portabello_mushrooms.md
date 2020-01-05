@@ -3,7 +3,6 @@ Portabello Mushrooms
 
 - portabello mushrooms
 - fried onions
-- bacon bits
 - chopped tomato
 - grated cheese
 

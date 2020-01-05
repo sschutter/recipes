@@ -2,7 +2,7 @@ Stuffed Green Peppers
 ---------------------
 
 - 6 green bell peppers (4 lobes on bottom)
-- 3/4 pounds lean ground beef
+- 3/4 pounds lean ground beef (optional)
 - 1 small onion, chopped
 - 2 tablespoons Worcestershire sauce
 - 1/2 teaspoon salt
