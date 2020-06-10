@@ -10,8 +10,6 @@ One Pot Mushroom Stroganoff
 - 1/3 cup cashew butter
 - 1 tbsp lemon juice
 - salt and parsley to taste
-<!-- -->
-- 2 teaspoons milk in second group of ingredients
 
 Peel your onion, cut it in half, and then thinly slice it into half “rings.” Cut onion into halfs or fourths, depending on size. You want to keep the Mushrooms relatively large, as they will shrink when cooking and are meant to imitate beef in this recipe.
 
