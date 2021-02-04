@@ -1,7 +1,7 @@
 One Pot Spicy Thai Noodles
 -----
 
-- 1 pound linguine
+- 1 pound linguine (or slightly less)
 <!-- -->
 - 2 tablespoon brown sugar
 - 1/3 cup low sodium soy sauce

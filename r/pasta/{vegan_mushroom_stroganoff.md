@@ -11,6 +11,8 @@ One Pot Mushroom Stroganoff
 - 1 tbsp lemon juice
 - salt and parsley to taste
 
+-Tip: do 3 cups pasta, 3 cups broth for more mushroom-heavy dish
+
 Peel your onion, cut it in half, and then thinly slice it into half “rings.” Cut onion into halfs or fourths, depending on size. You want to keep the Mushrooms relatively large, as they will shrink when cooking and are meant to imitate beef in this recipe.
 
 Pour a splash of water to a large pot over medium heat. Add in the sliced onion and cook until translucent, about 3-5 minutes.
