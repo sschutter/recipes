@@ -19,10 +19,10 @@ Preheat oven to 350 degrees F (175 degrees C). Coat muffin pans with non-stick s
 
 Combine bananas, sugar, egg, melted butter and vanilla in a large bowl. Fold in flour mixture, and mix until smooth. Scoop into muffin pans.
 
-Bake in preheated oven. Bake mini muffins for 10 to 15 minutes, and large muffins for 25 to 30 minutes. Muffins will spring back when lightly tapped.
+Bake in preheated oven. Bake mini muffins for 10 to 15 minutes, and large muffins for 20-25 minutes. Muffins will spring back when lightly tapped.
 
-- time: X minutes
-- servings: 
+- time: 1 hour
+- servings: 12 muffins
 - keywords:
-- rating:
+- rating: Andrew: 9  Skylar: 9
 - source: https://www.allrecipes.com/recipe/42719/banana-muffins-ii/
