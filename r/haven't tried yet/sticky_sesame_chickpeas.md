@@ -5,7 +5,7 @@ Sticky Sesame Chickpeas
 - 3 cloves of garlic
 - 1 tablespoon avocado oil or olive oil
 
-- 1 tablespoon arrowroot powder
+- 1 tablespoon arrowroot powder (could also use flour or cornstarch, some kind of binding/thickening ingredient)
 - 4 tablespoons vegetable broth or water
 
 - 1/3 cup tamari or soy sauce
